@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SearchMenu">Поиск</string>
+    <string name="genreMenu">Жанры</string>
+    <string name="authorMenu">Исполнители</string>
+    <string name="recommendMenu">Рекомендации</string>
+    <string name="myMusicMenu">Моя музыка</string>
+</resources>
